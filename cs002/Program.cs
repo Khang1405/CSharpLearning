@@ -3,5 +3,6 @@
     static void Main(string[] args)
     {
         Console.WriteLine("Ten toi la Khang");
+        int a;
     }
 }
