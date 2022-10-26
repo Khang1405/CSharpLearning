@@ -1,0 +1,5 @@
+D:\CSharp\bin\Release\net6.0\publish\CSharp.exe
+D:\CSharp\bin\Release\net6.0\publish\CSharp.dll
+D:\CSharp\bin\Release\net6.0\publish\CSharp.deps.json
+D:\CSharp\bin\Release\net6.0\publish\CSharp.runtimeconfig.json
+D:\CSharp\bin\Release\net6.0\publish\CSharp.pdb
