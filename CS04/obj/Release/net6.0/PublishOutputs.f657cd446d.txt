@@ -1,0 +1,5 @@
+D:\learncsharp\cs04\bin\Release\net6.0\publish\cs04.exe
+D:\learncsharp\cs04\bin\Release\net6.0\publish\cs04.dll
+D:\learncsharp\cs04\bin\Release\net6.0\publish\cs04.deps.json
+D:\learncsharp\cs04\bin\Release\net6.0\publish\cs04.runtimeconfig.json
+D:\learncsharp\cs04\bin\Release\net6.0\publish\cs04.pdb

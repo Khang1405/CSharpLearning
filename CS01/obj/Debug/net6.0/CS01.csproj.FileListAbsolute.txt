@@ -1,0 +1,15 @@
+D:\learncsharp\CS01\bin\Debug\net6.0\CS01.exe
+D:\learncsharp\CS01\bin\Debug\net6.0\CS01.deps.json
+D:\learncsharp\CS01\bin\Debug\net6.0\CS01.runtimeconfig.json
+D:\learncsharp\CS01\bin\Debug\net6.0\CS01.dll
+D:\learncsharp\CS01\bin\Debug\net6.0\CS01.pdb
+D:\learncsharp\CS01\obj\Debug\net6.0\CS01.csproj.AssemblyReference.cache
+D:\learncsharp\CS01\obj\Debug\net6.0\CS01.GeneratedMSBuildEditorConfig.editorconfig
+D:\learncsharp\CS01\obj\Debug\net6.0\CS01.AssemblyInfoInputs.cache
+D:\learncsharp\CS01\obj\Debug\net6.0\CS01.AssemblyInfo.cs
+D:\learncsharp\CS01\obj\Debug\net6.0\CS01.csproj.CoreCompileInputs.cache
+D:\learncsharp\CS01\obj\Debug\net6.0\CS01.dll
+D:\learncsharp\CS01\obj\Debug\net6.0\refint\CS01.dll
+D:\learncsharp\CS01\obj\Debug\net6.0\CS01.pdb
+D:\learncsharp\CS01\obj\Debug\net6.0\CS01.genruntimeconfig.cache
+D:\learncsharp\CS01\obj\Debug\net6.0\ref\CS01.dll

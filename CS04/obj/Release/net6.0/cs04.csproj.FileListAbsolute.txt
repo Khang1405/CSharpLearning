@@ -1,0 +1,15 @@
+D:\learncsharp\cs04\bin\Release\net6.0\cs04.exe
+D:\learncsharp\cs04\bin\Release\net6.0\cs04.deps.json
+D:\learncsharp\cs04\bin\Release\net6.0\cs04.runtimeconfig.json
+D:\learncsharp\cs04\bin\Release\net6.0\cs04.dll
+D:\learncsharp\cs04\bin\Release\net6.0\cs04.pdb
+D:\learncsharp\cs04\obj\Release\net6.0\cs04.csproj.AssemblyReference.cache
+D:\learncsharp\cs04\obj\Release\net6.0\cs04.GeneratedMSBuildEditorConfig.editorconfig
+D:\learncsharp\cs04\obj\Release\net6.0\cs04.AssemblyInfoInputs.cache
+D:\learncsharp\cs04\obj\Release\net6.0\cs04.AssemblyInfo.cs
+D:\learncsharp\cs04\obj\Release\net6.0\cs04.csproj.CoreCompileInputs.cache
+D:\learncsharp\cs04\obj\Release\net6.0\cs04.dll
+D:\learncsharp\cs04\obj\Release\net6.0\refint\cs04.dll
+D:\learncsharp\cs04\obj\Release\net6.0\cs04.pdb
+D:\learncsharp\cs04\obj\Release\net6.0\cs04.genruntimeconfig.cache
+D:\learncsharp\cs04\obj\Release\net6.0\ref\cs04.dll
