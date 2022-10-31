@@ -34,6 +34,7 @@
         Console.WriteLine("4, Tinh thuong");
 
         char e ;
+        L1:     
         e = Console.ReadKey().KeyChar;
         
         Console.WriteLine();
@@ -51,6 +52,12 @@
             case '4':
                 Console.WriteLine("Thuong la {0}", c / d );
             break;
+            default:
+                Console.WriteLine("Hay chon lenh khac");
+                goto L1;
+            break;
         }
+
+
     }
 }
