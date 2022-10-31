@@ -1,0 +1,15 @@
+D:\learncsharp\CS07\bin\Debug\net6.0\CS07.exe
+D:\learncsharp\CS07\bin\Debug\net6.0\CS07.deps.json
+D:\learncsharp\CS07\bin\Debug\net6.0\CS07.runtimeconfig.json
+D:\learncsharp\CS07\bin\Debug\net6.0\CS07.dll
+D:\learncsharp\CS07\bin\Debug\net6.0\CS07.pdb
+D:\learncsharp\CS07\obj\Debug\net6.0\CS07.csproj.AssemblyReference.cache
+D:\learncsharp\CS07\obj\Debug\net6.0\CS07.GeneratedMSBuildEditorConfig.editorconfig
+D:\learncsharp\CS07\obj\Debug\net6.0\CS07.AssemblyInfoInputs.cache
+D:\learncsharp\CS07\obj\Debug\net6.0\CS07.AssemblyInfo.cs
+D:\learncsharp\CS07\obj\Debug\net6.0\CS07.csproj.CoreCompileInputs.cache
+D:\learncsharp\CS07\obj\Debug\net6.0\CS07.dll
+D:\learncsharp\CS07\obj\Debug\net6.0\refint\CS07.dll
+D:\learncsharp\CS07\obj\Debug\net6.0\CS07.pdb
+D:\learncsharp\CS07\obj\Debug\net6.0\CS07.genruntimeconfig.cache
+D:\learncsharp\CS07\obj\Debug\net6.0\ref\CS07.dll
