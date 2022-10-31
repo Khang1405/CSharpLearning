@@ -6,5 +6,6 @@ namespace TinhToan
         {
             return a / b;
         }
+        
     }
 }
