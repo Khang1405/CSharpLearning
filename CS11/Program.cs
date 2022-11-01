@@ -1,11 +1,24 @@
-﻿using System;
+﻿using System.Text;
 namespace CS11 
 {
     class Program 
     {
         static void Main(string[] args)
         {
-            
+            string thongbao1;
+            thongbao1 = "Xin";
+            thongbao1+= " chao cac ban";
+            thongbao1 = thongbao1.Replace("Xin chao", "Chao mung 1 ");
+            Console.WriteLine(thongbao1);
+
+
+            StringBuilder string_new =   new StringBuilder();
+            string_new.Append("Xin");
+            string_new.Append(" chao cac ban");
+            string_new.Replace("Xin chao", "Chao mung");
+            string kq = string_new.ToString();
+            Console.WriteLine(kq);
+
             // dung \ de them 1 ki tu dac biet nhu \\ \"
             string loichao = "\\Xin \t \nchao";
             string ten = "\"Siu\"";
