@@ -1,0 +1,15 @@
+D:\learncsharp\CS18\bin\Debug\net6.0\CS18.exe
+D:\learncsharp\CS18\bin\Debug\net6.0\CS18.deps.json
+D:\learncsharp\CS18\bin\Debug\net6.0\CS18.runtimeconfig.json
+D:\learncsharp\CS18\bin\Debug\net6.0\CS18.dll
+D:\learncsharp\CS18\bin\Debug\net6.0\CS18.pdb
+D:\learncsharp\CS18\obj\Debug\net6.0\CS18.csproj.AssemblyReference.cache
+D:\learncsharp\CS18\obj\Debug\net6.0\CS18.GeneratedMSBuildEditorConfig.editorconfig
+D:\learncsharp\CS18\obj\Debug\net6.0\CS18.AssemblyInfoInputs.cache
+D:\learncsharp\CS18\obj\Debug\net6.0\CS18.AssemblyInfo.cs
+D:\learncsharp\CS18\obj\Debug\net6.0\CS18.csproj.CoreCompileInputs.cache
+D:\learncsharp\CS18\obj\Debug\net6.0\CS18.dll
+D:\learncsharp\CS18\obj\Debug\net6.0\refint\CS18.dll
+D:\learncsharp\CS18\obj\Debug\net6.0\CS18.pdb
+D:\learncsharp\CS18\obj\Debug\net6.0\CS18.genruntimeconfig.cache
+D:\learncsharp\CS18\obj\Debug\net6.0\ref\CS18.dll
