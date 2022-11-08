@@ -1,0 +1,15 @@
+D:\learncsharp\CS23\bin\Debug\net6.0\CS23.exe
+D:\learncsharp\CS23\bin\Debug\net6.0\CS23.deps.json
+D:\learncsharp\CS23\bin\Debug\net6.0\CS23.runtimeconfig.json
+D:\learncsharp\CS23\bin\Debug\net6.0\CS23.dll
+D:\learncsharp\CS23\bin\Debug\net6.0\CS23.pdb
+D:\learncsharp\CS23\obj\Debug\net6.0\CS23.csproj.AssemblyReference.cache
+D:\learncsharp\CS23\obj\Debug\net6.0\CS23.GeneratedMSBuildEditorConfig.editorconfig
+D:\learncsharp\CS23\obj\Debug\net6.0\CS23.AssemblyInfoInputs.cache
+D:\learncsharp\CS23\obj\Debug\net6.0\CS23.AssemblyInfo.cs
+D:\learncsharp\CS23\obj\Debug\net6.0\CS23.csproj.CoreCompileInputs.cache
+D:\learncsharp\CS23\obj\Debug\net6.0\CS23.dll
+D:\learncsharp\CS23\obj\Debug\net6.0\refint\CS23.dll
+D:\learncsharp\CS23\obj\Debug\net6.0\CS23.pdb
+D:\learncsharp\CS23\obj\Debug\net6.0\CS23.genruntimeconfig.cache
+D:\learncsharp\CS23\obj\Debug\net6.0\ref\CS23.dll
