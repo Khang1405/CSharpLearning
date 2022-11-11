@@ -1,0 +1,15 @@
+D:\learncsharp\CS27\bin\Debug\net6.0\CS27.exe
+D:\learncsharp\CS27\bin\Debug\net6.0\CS27.deps.json
+D:\learncsharp\CS27\bin\Debug\net6.0\CS27.runtimeconfig.json
+D:\learncsharp\CS27\bin\Debug\net6.0\CS27.dll
+D:\learncsharp\CS27\bin\Debug\net6.0\CS27.pdb
+D:\learncsharp\CS27\obj\Debug\net6.0\CS27.csproj.AssemblyReference.cache
+D:\learncsharp\CS27\obj\Debug\net6.0\CS27.GeneratedMSBuildEditorConfig.editorconfig
+D:\learncsharp\CS27\obj\Debug\net6.0\CS27.AssemblyInfoInputs.cache
+D:\learncsharp\CS27\obj\Debug\net6.0\CS27.AssemblyInfo.cs
+D:\learncsharp\CS27\obj\Debug\net6.0\CS27.csproj.CoreCompileInputs.cache
+D:\learncsharp\CS27\obj\Debug\net6.0\CS27.dll
+D:\learncsharp\CS27\obj\Debug\net6.0\refint\CS27.dll
+D:\learncsharp\CS27\obj\Debug\net6.0\CS27.pdb
+D:\learncsharp\CS27\obj\Debug\net6.0\CS27.genruntimeconfig.cache
+D:\learncsharp\CS27\obj\Debug\net6.0\ref\CS27.dll
